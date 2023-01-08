@@ -6,7 +6,7 @@ A Traffic Simulator written in C with a documentation report.
 
 To compile the project, navaigate to the src folder and run:
 ```
-	$./compileSim
+$./compileSim
 ```
 
 This will generate an executable called 'runSimulations'.
@@ -14,7 +14,7 @@ This will generate an executable called 'runSimulations'.
 To run the project, run the command:
 
 ```
-	$./runSimulations (1) (2) (3) (4)
+$./runSimulations (1) (2) (3) (4)
 ```
 
 where:
